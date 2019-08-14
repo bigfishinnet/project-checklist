@@ -1,4 +1,4 @@
-#Guidance on what to consider for testing in your project.
+# Guidance on what to consider for testing in your project.
 
 	1. What is the testing strategy for the project.  Has this been defined?  Where is it kept?
 	2. What tools are being used to test the code?  Are there links to the system that is being used?
