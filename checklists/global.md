@@ -1,4 +1,4 @@
-#Guidance on what to consider across the board for all projects.
+# Guidance on what to consider across the board for all projects.
 
 	1. Design a theoretical process for the pipeline which is efficient for the team to use in the project. CI/ CD
 	2. If required setup GitLAB server and Jenkins server
