@@ -1,4 +1,4 @@
-#Guidance on what to consider for SPIKES in your project.
+# Guidance on what to consider for SPIKES in your project.
 
 	1. Identify the problem.
 	2. Create a list of action items to complete the backlog item (ACCEPTANCE CRITERIA)
